@@ -29,4 +29,4 @@
 - Spring Boot, Spring Security, Thymeleaf, Hibernate, Spring Data JPA, Tomcat
 
 ## 🗄️ Cơ sở dữ liệu
-- MySQL, SQL Server, NoSQL
+- MySQL, SQL Server
