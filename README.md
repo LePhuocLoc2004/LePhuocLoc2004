@@ -17,7 +17,7 @@
 # 🛠 Kỹ năng chuyên môn
 
 ## 💻 Ngôn ngữ lập trình & Công cụ
-- Java, C#, GitHub, Git, Postman, Visual Studio, Eclipse, Spring Tool Suite
+- Java, C#, GitHub, Git, Postman, Visual Studio, Eclipse, Spring Tool Suite, Xampp
 
 ## 🌐 Front-end
 - HTML5, CSS3, Bootstrap, JavaScript, PHP
