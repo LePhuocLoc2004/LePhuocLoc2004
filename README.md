@@ -49,6 +49,7 @@
 - Thymeleaf
 - Hibernate
 - Spring Data JPA
+- Tomcat
 
 ## 🗄️ Cơ sở dữ liệu
 - MySQL
