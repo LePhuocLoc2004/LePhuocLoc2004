@@ -22,36 +22,16 @@
 # 🛠 Kỹ năng chuyên môn
 
 ## 💻 Ngôn ngữ lập trình & Công cụ
-- Java
-- C#
-- GitHub
-- Git
-- Postman
-- Visual Studio
-- Eclipse
-- Spring Tool Suite
+- Java, C#, GitHub, Git, Postman, Visual Studio, Eclipse, Spring Tool Suite
 
 ## 🌐 Front-end
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- PHP
+- HTML5, CSS3, Bootstrap, JavaScript, PHP
 
 ## ⚙️ Back-end
-- C#
-- Java
-- .NET
+- C#, Java, .NET
 
 ## ⚙️ Frameworks & Libraries
-- Spring Boot
-- Spring Security
-- Thymeleaf
-- Hibernate
-- Spring Data JPA
-- Tomcat
+- Spring Boot, Spring Security, Thymeleaf, Hibernate, Spring Data JPA, Tomcat
 
 ## 🗄️ Cơ sở dữ liệu
-- MySQL
-- SQL Server
-- NoSQL
+- MySQL, SQL Server, NoSQL
