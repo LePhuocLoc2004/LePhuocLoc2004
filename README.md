@@ -8,11 +8,6 @@
 - 📘 Ham học hỏi
 - 👂 Biết lắng nghe
 - 🤝 Làm việc nhóm tốt và làm việc độc lập hiệu quả
-
-## 🎯 Sở thích cá nhân
-- 🎧 Nghe nhạc để thư giãn
-- 📚 Đọc sách để phát triển bản thân và mở rộng tư duy
-
 ## 📫 Liên hệ với tôi
 - 💼 Facebook: https://www.facebook.com/phuocloc.le2004
 - ✉️ Email: 30.lephuocloc.12a12@gmail.com
